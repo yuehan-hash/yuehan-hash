@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yuehan
+- 👀 I’m interested in C and Java codinh
+- 🌱 I’m currently learning algorithms and will always learn
